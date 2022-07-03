@@ -2,7 +2,6 @@
 const fs = require('fs')
 const inquirer = require('inquirer');
 const { kill } = require('process');
-const utils = require('utils')
 
 const generateMarkdown = require('./utils/generateMarkdown')
 
