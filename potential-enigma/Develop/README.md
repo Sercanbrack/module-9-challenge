@@ -2,7 +2,7 @@
   Repository link: https://github.com/Sercanbrack/Module-9-Challenge
 
   ## Description
-  This is my submission for the Module 9 Challenge. This project will generate a professional README file for your coding project from questions answered in a node terminal.
+  This is my submission for the module 9 challenge. This project generates a professional README file.
   ## Table of Contents
   * [Installation](#installation)
   * [Instructions](#instructions)
