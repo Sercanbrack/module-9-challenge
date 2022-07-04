@@ -26,3 +26,8 @@
   This project is licensed under MIT.
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  ## Video
+
+  The video is unfortunately too large to view on the website, so you'll need to download it to watch.
+  https://github.com/Sercanbrack/module-9-challenge/blob/main/assets/Module-9-Project-Demo.mkv
